@@ -8,4 +8,4 @@ Hi there 你好 👋
 [![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=Tronclass_Bot&theme=prussian)](https://github.com/XiaXia009/Tronclass_Bot)
 
 ##### 可以找到我的方法:)
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/729170921788801074)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/729170921788801074) [![IG](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wen._.0420/)

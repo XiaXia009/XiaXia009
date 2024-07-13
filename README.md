@@ -7,7 +7,7 @@ Hi there 你好 👋
 最近做好的酷東西  
 [![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=Tronclass_Bot&theme=prussian)](https://github.com/XiaXia009/Tronclass_Bot)
 
-正在開發的遊戲
+正在開發的遊戲  
 [Hide N Seek](https://hidenseek.app/)
 
 ##### 可以找到我的方法:)

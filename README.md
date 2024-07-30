@@ -8,7 +8,7 @@ Hi there 你好 👋
 [![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=Tronclass_Bot&theme=prussian)](https://github.com/XiaXia009/Tronclass_Bot)
 
 ## 正在開發的遊戲  
-躲貓貓遊戲擴充:[Hide N Seek](https://hidenseek.app/)  
+躲貓貓遊戲擴充:[Hide N Seek](https://hidenseek.app/install)  
 (其他功能其實做完了 但我懶得push :> haha)
 
 ## 做過  

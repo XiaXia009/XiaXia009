@@ -6,6 +6,7 @@ Hi there 你好 👋
 
 ## 最近做好的酷東西  
 [![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=Tronclass_Bot&theme=prussian)](https://github.com/XiaXia009/Tronclass_Bot)
+[![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=youtube-ads-skip&theme=prussian)](https://github.com/XiaXia009/youtube-ads-skip)
 
 ## 正在開發的遊戲  
 躲貓貓遊戲擴充:[Hide N Seek](https://hidenseek.app/install)  

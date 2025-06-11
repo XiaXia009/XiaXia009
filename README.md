@@ -2,7 +2,7 @@ Hi there 你好 👋
 ===
 ### 現在是學生👾
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaXia009&layout=compact)
-![Rank]https://github-readme-stats.vercel.app/api?username=xiaxia009&locale=zh-tw
+![Rank](https://github-readme-stats.vercel.app/api?username=xiaxia009&locale=zh-tw)
 
 
 ## 最近做的酷東西  

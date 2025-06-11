@@ -3,7 +3,7 @@ Hi there 你好 👋
 ### 現在是學生👾
 
 ![Rank](https://github-readme-stats.vercel.app/api?username=xiaxia009&locale=zh-tw)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaXia009)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaXia009&layout=compact)
 
 ## 最近做的酷東西  
 [![Tronclass_Bot](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=Tronclass_Bot&theme=prussian)](https://github.com/XiaXia009/Tronclass_Bot)

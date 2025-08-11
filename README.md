@@ -10,7 +10,7 @@ Hi there 你好 👋
 [![Youtube-Ads-Skip](https://github-readme-stats.vercel.app/api/pin/?username=XiaXia009&repo=youtube-ads-skip&theme=prussian)](https://github.com/XiaXia009/youtube-ads-skip)
 
 ## 之前做的遊戲
-躲貓貓遊戲擴充:[Hide N Seek](https://hidenseek.app/install)  
+躲貓貓遊戲擴充:[Hide N Seek](https://hidenseek.xn--we-n6a.com/)  
 (其他功能其實做完了 但我懶得push :> haha)
 
 ## 做過  

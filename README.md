@@ -16,12 +16,12 @@ Hi there 你好 👋
 ## 做過  
 | 項目 | 內容 | 時間 |
 | :---- | :----: | :----: |
-| 文策院-未來內容原型開發支持方案 | 影像偵測相關開發 | 2023/6 |
+| [文策院-未來內容原型開發支持方案](https://inlight-film.com/hai-hong-thau) | 影像偵測相關開發 | 2023/6 |
 | valorant-store | 特戰英豪商店查詢包 協助維護 | 2024/4 |
-| Tronclass_Bot | 在宿舍就能輕鬆點名 | 2024/5 |
-| Hide N Seek | 躲貓貓遊戲的更多玩法 | 2024/7 |
+| [Tronclass_Bot](https://github.com/XiaXia009/Tronclass_Bot) | 在宿舍就能輕鬆點名 | 2024/5 |
+| [Hide N Seek](https://hidenseek.xn--we-n6a.com/) | 躲貓貓遊戲的更多玩法 | 2024/7 |
 | Take You Ticket | 拓元搶票機器人 | 2024/10 |
-| Youtube Skip Ads And APIs | youtube的api跟跳過廣告 | 2024/11 |
+| [Youtube Skip Ads And APIs](https://github.com/XiaXia009/youtube-ads-skip) | youtube的api跟跳過廣告 | 2024/11 |
 
 ## 可以找到我的方法:)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/729170921788801074) [![IG](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/wen._.0420/)
